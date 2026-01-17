@@ -102,3 +102,4 @@ call sp_follow_user(3, 1);
 select * from followers;
 select * from users;
 
+

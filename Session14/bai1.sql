@@ -57,3 +57,4 @@ call transfer_money(1, 2, 200.00);
 -- Kiểm tra kết quả
 select * from accounts;
 
+
